@@ -38,7 +38,7 @@ const Expenses = (props) => {
           ))
         )} */}
         <Expenseschart expense ={filteredExpenses}/>
-        <ExpensesList items={filteredExpenses}/>{/*This is another method*/}
+        <ExpensesList items={filteredExpenses}/>
       </Card>
     </div>
   );
