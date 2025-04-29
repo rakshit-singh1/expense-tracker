@@ -11,6 +11,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://rakshit-singh1.github.io/expense-tracker/",
+  "author":"Rakshit Kumar Singh",
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
